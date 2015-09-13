@@ -1,4 +1,4 @@
-# Arithmetic Interpretor
+# Arithmetic Interpreter
 CS5321 Intro to Databases Practicum
 
 • Developed a recursive descent parser to convert mathematical expressions to a tree representation (infix, prefix and postfix)
